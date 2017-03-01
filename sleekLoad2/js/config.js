@@ -85,7 +85,7 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/alltimelow.ogg", name: "Lullaby of Deserted Hell"},
+	{ogg: "songs/alltimelow.ogg", name: "ServerIntro"},
 ];
 
 /*Random music order?*/
@@ -102,7 +102,7 @@ var l_messagesEnabled = true;
 var l_messages = [
 "Enjoy the server",
 "Thanks for joining us!",
-"Welcome to CelerySurf!"
+"Welcome to MilkRP!"
 ];
 
 /*Random message order?*/
